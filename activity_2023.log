@@ -10,3 +10,4 @@
 2023 Activity at 2023-01-04T18:33:44: Address code review feedback
 2023 Activity at 2023-01-04T17:44:09: Sync with upstream repository changes
 2023 Activity at 2023-01-05T13:40:15: Fix bug in loss function calculation
+2023 Activity at 2023-01-05T12:59:40: Add support for multi-GPU training
