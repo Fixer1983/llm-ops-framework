@@ -12,3 +12,4 @@
 2023 Activity at 2023-01-05T13:40:15: Fix bug in loss function calculation
 2023 Activity at 2023-01-05T12:59:40: Add support for multi-GPU training
 2023 Activity at 2023-01-05T15:25:08: Improve model serialization and loading
+2023 Activity at 2023-01-05T11:12:35: Benchmark inference latency across devices
