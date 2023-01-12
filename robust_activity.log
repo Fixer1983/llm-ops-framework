@@ -18,3 +18,4 @@ Robust Activity at 2023-01-10T16:38:35: Clean up unused variables and functions
 Robust Activity at 2023-01-10T11:32:36: Optimize neural network architecture
 Robust Activity at 2023-01-10T12:46:15: Optimize GPU memory allocation
 Robust Activity at 2023-01-12T14:21:20: Refactor data loader for faster training
+Robust Activity at 2023-01-12T15:51:56: Benchmark inference latency across devices
