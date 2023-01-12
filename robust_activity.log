@@ -22,3 +22,4 @@ Robust Activity at 2023-01-12T15:51:56: Benchmark inference latency across devic
 Robust Activity at 2023-01-12T14:03:09: Fix race condition in data pipeline
 Robust Activity at 2023-01-12T13:18:31: Benchmark inference latency across devices
 Robust Activity at 2023-01-12T13:23:04: Clean up unused variables and functions
+Robust Activity at 2023-01-12T12:33:11: Improve documentation for API endpoints
