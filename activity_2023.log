@@ -53,3 +53,4 @@
 2023 Activity at 2023-01-12T11:20:15: Add support for transformer-based models
 2023 Activity at 2023-01-12T14:05:57: Update README with new performance metrics
 2023 Activity at 2023-01-13T13:15:20: Add support for transformer-based models
+2023 Activity at 2023-01-13T18:48:58: Benchmark inference latency across devices
