@@ -31,3 +31,4 @@ Robust Activity at 2023-01-17T12:22:54: Merge feature branch into main
 Robust Activity at 2023-01-17T09:14:58: Add support for transformer-based models
 Robust Activity at 2023-01-17T12:03:34: Add support for transformer-based models
 Robust Activity at 2023-01-17T14:46:13: Add unit tests for core modules
+Robust Activity at 2023-01-17T18:42:40: Benchmark inference latency across devices
