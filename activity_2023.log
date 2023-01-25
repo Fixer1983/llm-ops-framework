@@ -61,3 +61,4 @@
 2023 Activity at 2023-01-18T14:07:54: Implement early stopping in training loop
 2023 Activity at 2023-01-23T13:43:56: Merge feature branch into main
 2023 Activity at 2023-01-23T13:41:01: Improve model serialization and loading
+2023 Activity at 2023-01-24T19:10:16: Add support for transformer-based models
