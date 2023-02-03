@@ -86,3 +86,4 @@
 2023 Activity at 2023-02-02T18:37:58: Initial prototype for feature extraction
 2023 Activity at 2023-02-02T15:22:46: Add support for transformer-based models
 2023 Activity at 2023-02-02T16:50:59: Add support for transformer-based models
+2023 Activity at 2023-02-03T16:24:36: Fix bug in loss function calculation
