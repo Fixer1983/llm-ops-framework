@@ -96,3 +96,4 @@
 2023 Activity at 2023-02-03T15:19:56: Update dependencies to latest stable versions
 2023 Activity at 2023-02-03T09:45:55: Add support for multi-GPU training
 2023 Activity at 2023-02-03T12:56:20: Add unit tests for core modules
+2023 Activity at 2023-02-06T16:27:14: Improve model serialization and loading
