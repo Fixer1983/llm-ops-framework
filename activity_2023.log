@@ -111,3 +111,4 @@
 2023 Activity at 2023-02-09T14:40:22: Fix bug in loss function calculation
 2023 Activity at 2023-02-09T16:48:56: Fix bug in loss function calculation
 2023 Activity at 2023-02-09T15:57:46: Benchmark inference latency across devices
+2023 Activity at 2023-02-09T10:25:33: Implement early stopping in training loop
