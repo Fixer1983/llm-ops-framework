@@ -117,3 +117,4 @@
 2023 Activity at 2023-02-10T11:45:32: Add support for transformer-based models
 2023 Activity at 2023-02-10T15:42:47: Improve model serialization and loading
 2023 Activity at 2023-02-10T19:32:07: Clean up unused variables and functions
+2023 Activity at 2023-02-10T12:35:24: Implement early stopping in training loop
