@@ -186,3 +186,4 @@
 2023 Activity at 2023-02-23T10:44:35: Add support for transformer-based models
 2023 Activity at 2023-02-23T14:18:56: Implement early stopping in training loop
 2023 Activity at 2023-02-23T17:39:38: Merge feature branch into main
+2023 Activity at 2023-02-23T17:57:47: Benchmark inference latency across devices
