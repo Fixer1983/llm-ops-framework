@@ -194,3 +194,4 @@
 2023 Activity at 2023-02-28T19:59:31: Add support for multi-GPU training
 2023 Activity at 2023-02-28T10:31:12: Fix bug in loss function calculation
 2023 Activity at 2023-02-28T12:24:38: Sync with upstream repository changes
+2023 Activity at 2023-02-28T17:37:41: Improve documentation for API endpoints
