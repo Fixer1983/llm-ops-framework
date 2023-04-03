@@ -151,3 +151,4 @@ Robust Activity at 2023-03-31T11:52:42: Initial prototype for feature extraction
 Robust Activity at 2023-03-31T10:29:44: Add unit tests for core modules
 Robust Activity at 2023-04-03T11:24:28: Sync with upstream repository changes
 Robust Activity at 2023-04-03T11:37:58: Implement early stopping in training loop
+Robust Activity at 2023-04-03T10:52:31: Refactor data loader for faster training
