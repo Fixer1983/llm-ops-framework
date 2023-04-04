@@ -270,3 +270,4 @@
 2023 Activity at 2023-04-03T15:52:07: Add support for multi-GPU training
 2023 Activity at 2023-04-04T16:32:51: Benchmark inference latency across devices
 2023 Activity at 2023-04-04T19:53:44: Implement early stopping in training loop
+2023 Activity at 2023-04-04T18:17:50: Add unit tests for core modules
