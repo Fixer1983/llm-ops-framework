@@ -162,3 +162,4 @@ Robust Activity at 2023-04-11T15:25:32: Update dependencies to latest stable ver
 Robust Activity at 2023-04-11T10:45:23: Add support for multi-GPU training
 Robust Activity at 2023-04-19T12:02:17: Update dependencies to latest stable versions
 Robust Activity at 2023-04-19T14:11:38: Benchmark inference latency across devices
+Robust Activity at 2023-04-19T16:09:32: Benchmark inference latency across devices
