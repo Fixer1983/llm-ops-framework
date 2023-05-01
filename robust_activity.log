@@ -172,3 +172,4 @@ Robust Activity at 2023-04-26T18:30:16: Improve model serialization and loading
 Robust Activity at 2023-04-26T09:58:36: Improve model serialization and loading
 Robust Activity at 2023-04-27T11:54:54: Initial prototype for feature extraction
 Robust Activity at 2023-04-27T11:19:50: Optimize GPU memory allocation
+Robust Activity at 2023-05-01T18:20:18: Add unit tests for core modules
