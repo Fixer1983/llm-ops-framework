@@ -177,3 +177,4 @@ Robust Activity at 2023-05-01T15:29:43: Initial prototype for feature extraction
 Robust Activity at 2023-05-02T09:28:24: Optimize neural network architecture
 Robust Activity at 2023-05-02T10:03:31: Address code review feedback
 Robust Activity at 2023-05-02T15:53:29: Improve model serialization and loading
+Robust Activity at 2023-05-02T16:45:59: Fix bug in loss function calculation
