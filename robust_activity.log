@@ -181,3 +181,4 @@ Robust Activity at 2023-05-02T16:45:59: Fix bug in loss function calculation
 Robust Activity at 2023-05-03T09:37:05: Fix bug in loss function calculation
 Robust Activity at 2023-05-03T17:36:22: Fix bug in loss function calculation
 Robust Activity at 2023-05-04T13:02:32: Add unit tests for core modules
+Robust Activity at 2023-05-04T18:52:34: Clean up unused variables and functions
