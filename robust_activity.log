@@ -212,3 +212,4 @@ Robust Activity at 2023-05-16T16:09:23: Benchmark inference latency across devic
 Robust Activity at 2023-05-16T10:15:28: Fix bug in loss function calculation
 Robust Activity at 2023-05-17T11:50:41: Optimize GPU memory allocation
 Robust Activity at 2023-05-17T15:46:29: Add unit tests for core modules
+Robust Activity at 2023-05-17T15:17:07: Fix bug in loss function calculation
