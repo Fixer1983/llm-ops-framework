@@ -232,3 +232,4 @@ Robust Activity at 2023-05-29T13:18:17: Optimize GPU memory allocation
 Robust Activity at 2023-05-29T13:23:47: Fix bug in loss function calculation
 Robust Activity at 2023-05-29T18:19:07: Merge feature branch into main
 Robust Activity at 2023-05-30T17:45:02: Update README with new performance metrics
+Robust Activity at 2023-05-30T14:49:17: Clean up unused variables and functions
