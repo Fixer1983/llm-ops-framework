@@ -266,3 +266,4 @@ Robust Activity at 2023-06-13T11:01:58: Merge feature branch into main
 Robust Activity at 2023-06-13T10:07:43: Merge feature branch into main
 Robust Activity at 2023-06-13T12:20:23: Refactor data loader for faster training
 Robust Activity at 2023-06-13T09:11:27: Optimize GPU memory allocation
+Robust Activity at 2023-06-15T10:24:22: Clean up unused variables and functions
