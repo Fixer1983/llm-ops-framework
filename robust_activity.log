@@ -279,3 +279,4 @@ Robust Activity at 2023-06-23T17:51:43: Merge feature branch into main
 Robust Activity at 2023-06-23T10:31:55: Add unit tests for core modules
 Robust Activity at 2023-06-23T16:58:16: Sync with upstream repository changes
 Robust Activity at 2023-06-23T15:04:33: Implement early stopping in training loop
+Robust Activity at 2023-06-23T16:21:24: Add support for transformer-based models
