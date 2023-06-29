@@ -290,3 +290,4 @@ Robust Activity at 2023-06-28T15:29:56: Fix race condition in data pipeline
 Robust Activity at 2023-06-28T16:27:46: Sync with upstream repository changes
 Robust Activity at 2023-06-28T11:24:33: Refactor data loader for faster training
 Robust Activity at 2023-06-29T12:53:33: Update README with new performance metrics
+Robust Activity at 2023-06-29T17:29:17: Add support for transformer-based models
