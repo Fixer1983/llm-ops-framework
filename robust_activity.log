@@ -316,3 +316,4 @@ Robust Activity at 2023-07-14T12:44:02: Clean up unused variables and functions
 Robust Activity at 2023-07-14T10:46:22: Add support for multi-GPU training
 Robust Activity at 2023-07-14T18:20:11: Sync with upstream repository changes
 Robust Activity at 2023-07-14T13:37:21: Improve documentation for API endpoints
+Robust Activity at 2023-07-17T16:41:46: Benchmark inference latency across devices
