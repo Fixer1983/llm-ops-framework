@@ -474,3 +474,4 @@ Robust Activity at 2023-10-04T18:13:19: Add support for multi-GPU training
 Robust Activity at 2023-10-04T13:27:30: Benchmark inference latency across devices
 Robust Activity at 2023-10-04T15:04:25: Clean up unused variables and functions
 Robust Activity at 2023-10-05T09:48:08: Benchmark inference latency across devices
+Robust Activity at 2023-10-05T11:53:58: Optimize GPU memory allocation
