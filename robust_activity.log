@@ -481,3 +481,4 @@ Robust Activity at 2023-10-05T16:45:27: Fix bug in loss function calculation
 Robust Activity at 2023-10-10T12:55:57: Update README with new performance metrics
 Robust Activity at 2023-10-10T11:57:25: Initial prototype for feature extraction
 Robust Activity at 2023-10-10T16:00:18: Fix race condition in data pipeline
+Robust Activity at 2023-10-10T16:38:25: Improve documentation for API endpoints
