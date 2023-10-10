@@ -478,3 +478,4 @@ Robust Activity at 2023-10-05T11:53:58: Optimize GPU memory allocation
 Robust Activity at 2023-10-05T17:38:17: Fix bug in loss function calculation
 Robust Activity at 2023-10-05T15:26:14: Improve model serialization and loading
 Robust Activity at 2023-10-05T16:45:27: Fix bug in loss function calculation
+Robust Activity at 2023-10-10T12:55:57: Update README with new performance metrics
