@@ -508,3 +508,4 @@ Robust Activity at 2023-10-27T15:31:03: Add support for transformer-based models
 Robust Activity at 2023-10-31T12:09:30: Clean up unused variables and functions
 Robust Activity at 2023-10-31T12:32:34: Optimize GPU memory allocation
 Robust Activity at 2023-10-31T18:27:06: Address code review feedback
+Robust Activity at 2023-10-31T12:39:41: Add unit tests for core modules
