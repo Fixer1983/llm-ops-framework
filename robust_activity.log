@@ -512,3 +512,4 @@ Robust Activity at 2023-10-31T12:39:41: Add unit tests for core modules
 Robust Activity at 2023-10-31T12:10:09: Add support for multi-GPU training
 Robust Activity at 2023-11-06T13:54:34: Improve documentation for API endpoints
 Robust Activity at 2023-11-06T17:45:03: Update README with new performance metrics
+Robust Activity at 2023-11-06T10:51:12: Fix bug in loss function calculation
