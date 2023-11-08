@@ -514,3 +514,4 @@ Robust Activity at 2023-11-06T13:54:34: Improve documentation for API endpoints
 Robust Activity at 2023-11-06T17:45:03: Update README with new performance metrics
 Robust Activity at 2023-11-06T10:51:12: Fix bug in loss function calculation
 Robust Activity at 2023-11-06T10:38:02: Implement early stopping in training loop
+Robust Activity at 2023-11-08T14:20:49: Benchmark inference latency across devices
