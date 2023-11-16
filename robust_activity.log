@@ -534,3 +534,4 @@ Robust Activity at 2023-11-15T12:45:53: Benchmark inference latency across devic
 Robust Activity at 2023-11-15T17:44:00: Update dependencies to latest stable versions
 Robust Activity at 2023-11-15T12:19:07: Add support for transformer-based models
 Robust Activity at 2023-11-15T15:11:54: Improve documentation for API endpoints
+Robust Activity at 2023-11-16T18:36:02: Benchmark inference latency across devices
