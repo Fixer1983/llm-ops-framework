@@ -612,3 +612,4 @@ Robust Activity at 2023-12-28T18:10:45: Initial prototype for feature extraction
 Robust Activity at 2023-12-28T18:59:06: Initial prototype for feature extraction
 Robust Activity at 2023-12-28T11:25:37: Fix race condition in data pipeline
 Robust Activity at 2023-12-28T11:19:35: Refactor data loader for faster training
+Robust Activity at 2023-12-29T12:00:42: Clean up unused variables and functions
