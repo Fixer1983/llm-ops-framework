@@ -619,3 +619,4 @@ Robust Activity at 2023-12-29T17:27:21: Fix bug in loss function calculation
 Robust Activity at 2023-12-29T18:07:42: Add support for transformer-based models
 Robust Activity at 2023-12-29T09:34:01: Initial prototype for feature extraction
 Robust Activity at 2024-01-05T16:33:33: Merge feature branch into main
+Robust Activity at 2024-01-05T13:04:07: Benchmark inference latency across devices
