@@ -16,3 +16,4 @@
 2024 Activity at 2024-01-10T11:11:58: Add support for multi-GPU training via DDP
 2024 Activity at 2024-01-10T17:18:26: Add support for transformer-based models in inference
 2024 Activity at 2024-01-10T18:04:52: Improve model serialization and loading efficiency
+2024 Activity at 2024-01-16T16:58:33: Update README with latest performance benchmarks
