@@ -30,3 +30,4 @@
 2024 Activity at 2024-01-22T11:37:41: Fix bug in loss function calculation for edge cases
 2024 Activity at 2024-01-22T12:57:04: Clean up unused variables and deprecated functions
 2024 Activity at 2024-01-22T16:32:30: Initial prototype for feature extraction in real-time
+2024 Activity at 2024-01-22T12:18:12: Implement early stopping logic in the training loop
