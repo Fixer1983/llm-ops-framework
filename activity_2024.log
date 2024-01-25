@@ -39,3 +39,4 @@
 2024 Activity at 2024-01-24T09:54:13: Refactor data loading pipeline for higher throughput
 2024 Activity at 2024-01-24T11:47:39: Add support for transformer-based models in inference
 2024 Activity at 2024-01-25T17:23:59: Clean up unused variables and deprecated functions
+2024 Activity at 2024-01-25T11:44:32: Add support for transformer-based models in inference
