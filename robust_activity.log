@@ -664,3 +664,4 @@ Robust Activity at 2024-01-30T15:46:57: Update README with new performance metri
 Robust Activity at 2024-01-30T17:13:49: Benchmark inference latency across devices
 Robust Activity at 2024-01-31T13:15:26: Benchmark inference latency across devices
 Robust Activity at 2024-01-31T11:42:05: Fix bug in loss function calculation
+Robust Activity at 2024-01-31T17:45:08: Address code review feedback
