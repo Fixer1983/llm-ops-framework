@@ -138,3 +138,4 @@
 2024 Activity at 2024-02-21T11:00:54: Add support for multi-GPU training via DDP
 2024 Activity at 2024-02-22T15:23:38: Merge feature branch into main for the next release
 2024 Activity at 2024-02-23T18:19:53: Merge feature branch into main for the next release
+2024 Activity at 2024-02-23T16:51:57: Optimize GPU memory allocation for large models
