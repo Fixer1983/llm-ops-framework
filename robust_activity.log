@@ -709,3 +709,4 @@ Robust Activity at 2024-02-29T17:31:30: Optimize neural network architecture
 Robust Activity at 2024-02-29T16:35:10: Implement early stopping in training loop
 Robust Activity at 2024-03-04T11:47:41: Add support for transformer-based models
 Robust Activity at 2024-03-04T14:05:27: Fix bug in loss function calculation
+Robust Activity at 2024-03-04T13:21:37: Benchmark inference latency across devices
