@@ -166,3 +166,4 @@
 2024 Activity at 2024-02-29T13:59:35: Clean up unused variables and deprecated functions
 2024 Activity at 2024-02-29T11:17:41: Fix potential race condition in the data pipeline
 2024 Activity at 2024-03-05T12:45:38: Merge feature branch into main for the next release
+2024 Activity at 2024-03-05T18:28:53: Add support for multi-GPU training via DDP
