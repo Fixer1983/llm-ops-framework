@@ -174,3 +174,4 @@
 2024 Activity at 2024-03-06T18:53:11: Add support for transformer-based models in inference
 2024 Activity at 2024-03-06T18:32:15: Benchmark inference latency across multiple devices
 2024 Activity at 2024-03-06T11:21:58: Improve model serialization and loading efficiency
+2024 Activity at 2024-03-06T12:05:10: Optimize GPU memory allocation for large models
