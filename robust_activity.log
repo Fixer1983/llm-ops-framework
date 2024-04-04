@@ -755,3 +755,4 @@ Robust Activity at 2024-04-03T13:29:43: Add support for multi-GPU training
 Robust Activity at 2024-04-04T13:32:37: Sync with upstream repository changes
 Robust Activity at 2024-04-04T11:34:34: Update README with new performance metrics
 Robust Activity at 2024-04-04T11:01:36: Optimize GPU memory allocation
+Robust Activity at 2024-04-04T11:35:43: Clean up unused variables and functions
