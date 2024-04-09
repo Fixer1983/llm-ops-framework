@@ -239,3 +239,4 @@
 2024 Activity at 2024-04-09T16:49:05: Optimize neural network architecture for better performance
 2024 Activity at 2024-04-09T18:25:21: Benchmark inference latency across multiple devices
 2024 Activity at 2024-04-09T15:58:30: Optimize neural network architecture for better performance
+2024 Activity at 2024-04-09T09:42:34: Add support for multi-GPU training via DDP
