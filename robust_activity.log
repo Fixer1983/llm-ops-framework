@@ -783,3 +783,4 @@ Robust Activity at 2024-04-15T16:33:48: Add unit tests for core modules
 Robust Activity at 2024-04-15T12:22:35: Optimize GPU memory allocation
 Robust Activity at 2024-04-17T09:19:59: Add support for transformer-based models
 Robust Activity at 2024-04-17T10:19:04: Merge feature branch into main
+Robust Activity at 2024-04-17T11:16:35: Refactor data loader for faster training
