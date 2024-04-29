@@ -807,3 +807,4 @@ Robust Activity at 2024-04-25T11:19:49: Implement early stopping in training loo
 Robust Activity at 2024-04-25T11:46:55: Add support for transformer-based models
 Robust Activity at 2024-04-25T11:46:07: Improve model serialization and loading
 Robust Activity at 2024-04-29T17:12:40: Fix bug in loss function calculation
+Robust Activity at 2024-04-29T14:02:33: Benchmark inference latency across devices
