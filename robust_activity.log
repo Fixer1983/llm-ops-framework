@@ -810,3 +810,4 @@ Robust Activity at 2024-04-29T17:12:40: Fix bug in loss function calculation
 Robust Activity at 2024-04-29T14:02:33: Benchmark inference latency across devices
 Robust Activity at 2024-05-03T17:02:58: Initial prototype for feature extraction
 Robust Activity at 2024-05-03T15:41:12: Clean up unused variables and functions
+Robust Activity at 2024-05-03T09:55:02: Add unit tests for core modules
