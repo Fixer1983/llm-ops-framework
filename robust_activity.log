@@ -848,3 +848,4 @@ Robust Activity at 2024-05-23T11:23:00: Implement early stopping in training loo
 Robust Activity at 2024-05-23T14:20:57: Add support for transformer-based models
 Robust Activity at 2024-05-24T18:08:14: Improve model serialization and loading
 Robust Activity at 2024-05-24T11:57:47: Improve documentation for API endpoints
+Robust Activity at 2024-05-24T10:56:15: Refactor data loader for faster training
