@@ -854,3 +854,4 @@ Robust Activity at 2024-05-27T18:11:33: Clean up unused variables and functions
 Robust Activity at 2024-05-27T14:46:27: Fix race condition in data pipeline
 Robust Activity at 2024-05-27T17:30:16: Sync with upstream repository changes
 Robust Activity at 2024-05-27T09:01:37: Implement early stopping in training loop
+Robust Activity at 2024-05-27T09:34:24: Add unit tests for core modules
