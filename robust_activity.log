@@ -862,3 +862,4 @@ Robust Activity at 2024-05-31T12:09:57: Improve documentation for API endpoints
 Robust Activity at 2024-05-31T10:54:30: Improve documentation for API endpoints
 Robust Activity at 2024-05-31T13:19:22: Address code review feedback
 Robust Activity at 2024-05-31T10:20:28: Add unit tests for core modules
+Robust Activity at 2024-05-31T12:01:56: Fix bug in loss function calculation
