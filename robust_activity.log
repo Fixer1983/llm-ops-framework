@@ -865,3 +865,4 @@ Robust Activity at 2024-05-31T10:20:28: Add unit tests for core modules
 Robust Activity at 2024-05-31T12:01:56: Fix bug in loss function calculation
 Robust Activity at 2024-05-31T18:45:52: Add unit tests for core modules
 Robust Activity at 2024-06-03T15:02:50: Benchmark inference latency across devices
+Robust Activity at 2024-06-03T10:27:09: Clean up unused variables and functions
