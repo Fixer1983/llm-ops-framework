@@ -910,3 +910,4 @@ Robust Activity at 2024-06-24T12:49:14: Benchmark inference latency across devic
 Robust Activity at 2024-06-24T10:18:53: Optimize GPU memory allocation
 Robust Activity at 2024-06-24T12:40:15: Optimize GPU memory allocation
 Robust Activity at 2024-06-24T15:45:00: Optimize GPU memory allocation
+Robust Activity at 2024-06-24T09:12:20: Add support for transformer-based models
