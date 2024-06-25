@@ -912,3 +912,4 @@ Robust Activity at 2024-06-24T12:40:15: Optimize GPU memory allocation
 Robust Activity at 2024-06-24T15:45:00: Optimize GPU memory allocation
 Robust Activity at 2024-06-24T09:12:20: Add support for transformer-based models
 Robust Activity at 2024-06-25T15:51:25: Address code review feedback
+Robust Activity at 2024-06-25T10:25:24: Add unit tests for core modules
