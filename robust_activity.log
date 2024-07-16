@@ -947,3 +947,4 @@ Robust Activity at 2024-07-09T12:25:38: Add support for transformer-based models
 Robust Activity at 2024-07-09T14:06:29: Fix bug in loss function calculation
 Robust Activity at 2024-07-09T17:37:33: Sync with upstream repository changes
 Robust Activity at 2024-07-09T17:24:58: Implement early stopping in training loop
+Robust Activity at 2024-07-16T16:46:56: Fix bug in loss function calculation
