@@ -982,3 +982,4 @@ Robust Activity at 2024-07-30T17:36:05: Fix race condition in data pipeline
 Robust Activity at 2024-07-30T11:35:27: Add unit tests for core modules
 Robust Activity at 2024-07-31T11:30:54: Implement early stopping in training loop
 Robust Activity at 2024-07-31T14:18:19: Update dependencies to latest stable versions
+Robust Activity at 2024-07-31T15:31:16: Add support for transformer-based models
