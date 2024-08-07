@@ -997,3 +997,4 @@ Robust Activity at 2024-08-05T18:56:46: Optimize GPU memory allocation
 Robust Activity at 2024-08-05T13:38:44: Refactor data loader for faster training
 Robust Activity at 2024-08-05T15:38:47: Add support for transformer-based models
 Robust Activity at 2024-08-05T11:17:19: Update README with new performance metrics
+Robust Activity at 2024-08-07T17:14:20: Add unit tests for core modules
