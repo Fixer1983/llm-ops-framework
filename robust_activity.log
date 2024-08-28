@@ -1032,3 +1032,4 @@ Robust Activity at 2024-08-22T10:20:26: Benchmark inference latency across devic
 Robust Activity at 2024-08-22T09:52:49: Add unit tests for core modules
 Robust Activity at 2024-08-28T16:13:25: Improve model serialization and loading
 Robust Activity at 2024-08-28T11:20:43: Clean up unused variables and functions
+Robust Activity at 2024-08-28T11:11:18: Add support for transformer-based models
