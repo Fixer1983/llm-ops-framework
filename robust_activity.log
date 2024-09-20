@@ -1059,3 +1059,4 @@ Robust Activity at 2024-09-19T10:35:04: Add support for transformer-based models
 Robust Activity at 2024-09-19T17:01:14: Improve model serialization and loading
 Robust Activity at 2024-09-19T09:34:35: Improve model serialization and loading
 Robust Activity at 2024-09-19T15:47:19: Improve model serialization and loading
+Robust Activity at 2024-09-20T16:57:48: Implement early stopping in training loop
