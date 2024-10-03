@@ -1090,3 +1090,4 @@ Robust Activity at 2024-10-02T14:27:12: Improve model serialization and loading
 Robust Activity at 2024-10-02T15:05:06: Benchmark inference latency across devices
 Robust Activity at 2024-10-03T12:59:38: Benchmark inference latency across devices
 Robust Activity at 2024-10-03T16:49:20: Initial prototype for feature extraction
+Robust Activity at 2024-10-03T12:43:57: Add unit tests for core modules
