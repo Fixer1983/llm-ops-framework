@@ -1107,3 +1107,4 @@ Robust Activity at 2024-10-10T13:54:26: Initial prototype for feature extraction
 Robust Activity at 2024-10-10T15:52:53: Merge feature branch into main
 Robust Activity at 2024-10-11T10:23:08: Improve model serialization and loading
 Robust Activity at 2024-10-11T10:59:12: Fix race condition in data pipeline
+Robust Activity at 2024-10-11T09:29:04: Add unit tests for core modules
