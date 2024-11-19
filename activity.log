@@ -90,3 +90,4 @@ Activity at 2024-11-19T14:35:12: Update README with new performance benchmarks
 Activity at 2024-11-19T16:03:08: Initial research on graph-based RAG
 Activity at 2024-11-19T17:05:17: Improve logging and monitoring in production
 Activity at 2024-11-19T16:38:49: Implement new feature for synthetic data generation
+Activity at 2024-11-19T14:39:07: Refactor core ML pipeline for better scalability
