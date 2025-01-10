@@ -31,3 +31,4 @@
 2025 Activity at 2025-01-10T13:14:53: Merge stable feature branch into main
 2025 Activity at 2025-01-10T19:32:58: Benchmark inference throughput on latest hardware
 2025 Activity at 2025-01-10T14:09:16: Update documentation for new LLMOps features
+2025 Activity at 2025-01-10T16:05:42: Add support for multimodal models in inference engine
