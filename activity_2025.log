@@ -27,3 +27,4 @@
 2025 Activity at 2025-01-10T09:56:09: Benchmark inference throughput on latest hardware
 2025 Activity at 2025-01-10T17:23:31: Update README with 2025 performance benchmarks
 2025 Activity at 2025-01-10T10:09:43: Initial prototype for agentic workflow integration
+2025 Activity at 2025-01-10T10:19:16: Improve model serialization for edge deployment
