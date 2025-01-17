@@ -40,3 +40,4 @@
 2025 Activity at 2025-01-17T17:28:58: Add support for multimodal models in inference engine
 2025 Activity at 2025-01-17T13:33:24: Update documentation for new LLMOps features
 2025 Activity at 2025-01-17T13:08:22: Enhance real-time monitoring for model drift
+2025 Activity at 2025-01-17T14:28:41: Fix bug in backpropagation for custom layers
