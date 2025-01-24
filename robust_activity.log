@@ -1254,3 +1254,4 @@ Robust Activity at 2025-01-21T16:47:14: Improve model serialization and loading
 Robust Activity at 2025-01-21T14:25:20: Sync with upstream repository changes
 Robust Activity at 2025-01-24T12:40:38: Update README with new performance metrics
 Robust Activity at 2025-01-24T11:52:47: Improve documentation for API endpoints
+Robust Activity at 2025-01-24T14:58:42: Add unit tests for core modules
