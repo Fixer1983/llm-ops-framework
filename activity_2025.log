@@ -80,3 +80,4 @@
 2025 Activity at 2025-01-29T12:34:26: Fix concurrency issue in the data ingestion pipeline
 2025 Activity at 2025-01-29T18:37:20: Optimize memory management for large-scale inference
 2025 Activity at 2025-01-30T12:44:07: Optimize memory management for large-scale inference
+2025 Activity at 2025-01-30T11:42:48: Add support for multimodal models in inference engine
