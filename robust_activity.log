@@ -1267,3 +1267,4 @@ Robust Activity at 2025-01-31T09:21:00: Optimize GPU memory allocation
 Robust Activity at 2025-01-31T10:31:33: Update README with new performance metrics
 Robust Activity at 2025-01-31T09:09:41: Add support for transformer-based models
 Robust Activity at 2025-01-31T13:01:13: Sync with upstream repository changes
+Robust Activity at 2025-01-31T09:51:06: Add unit tests for core modules
