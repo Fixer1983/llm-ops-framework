@@ -325,3 +325,4 @@ Activity at 2025-02-03T18:16:12: Add support for multi-cloud environments
 Activity at 2025-02-03T13:41:17: Fix minor bug in data preprocessing script
 Activity at 2025-02-03T19:27:44: Update documentation for RAG implementation
 Activity at 2025-02-03T17:43:08: Address feedback from code review
+Activity at 2025-02-03T17:29:44: Initial research on graph-based RAG
