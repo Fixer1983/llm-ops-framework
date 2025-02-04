@@ -326,3 +326,4 @@ Activity at 2025-02-03T13:41:17: Fix minor bug in data preprocessing script
 Activity at 2025-02-03T19:27:44: Update documentation for RAG implementation
 Activity at 2025-02-03T17:43:08: Address feedback from code review
 Activity at 2025-02-03T17:29:44: Initial research on graph-based RAG
+Activity at 2025-02-03T19:58:57: Optimize memory usage in LLM deployment
