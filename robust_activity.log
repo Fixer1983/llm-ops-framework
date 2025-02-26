@@ -1309,3 +1309,4 @@ Robust Activity at 2025-02-25T18:43:48: Address code review feedback
 Robust Activity at 2025-02-26T14:27:46: Add support for transformer-based models
 Robust Activity at 2025-02-26T09:01:03: Clean up unused variables and functions
 Robust Activity at 2025-02-26T09:58:15: Fix bug in loss function calculation
+Robust Activity at 2025-02-26T16:51:43: Optimize GPU memory allocation
