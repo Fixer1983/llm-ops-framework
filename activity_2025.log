@@ -242,3 +242,4 @@
 2025 Activity at 2025-03-19T19:45:52: Fix bug in backpropagation for custom layers
 2025 Activity at 2025-03-19T09:53:10: Clean up legacy code and improve modularity
 2025 Activity at 2025-03-19T19:49:58: Benchmark inference throughput on latest hardware
+2025 Activity at 2025-03-20T15:46:50: Add support for multimodal models in inference engine
