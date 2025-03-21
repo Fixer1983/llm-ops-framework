@@ -1349,3 +1349,4 @@ Robust Activity at 2025-03-18T12:52:08: Merge feature branch into main
 Robust Activity at 2025-03-18T15:24:29: Improve documentation for API endpoints
 Robust Activity at 2025-03-19T15:57:09: Address code review feedback
 Robust Activity at 2025-03-19T09:17:20: Add support for transformer-based models
+Robust Activity at 2025-03-21T10:14:52: Benchmark inference latency across devices
