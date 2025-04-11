@@ -1380,3 +1380,4 @@ Robust Activity at 2025-04-03T10:24:36: Improve model serialization and loading
 Robust Activity at 2025-04-03T15:49:46: Add support for transformer-based models
 Robust Activity at 2025-04-11T15:00:02: Initial prototype for feature extraction
 Robust Activity at 2025-04-11T11:12:31: Update README with new performance metrics
+Robust Activity at 2025-04-11T09:47:31: Enhance logging for debugging production issues
