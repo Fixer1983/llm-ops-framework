@@ -1387,3 +1387,4 @@ Robust Activity at 2025-04-14T17:31:25: Add support for transformer-based models
 Robust Activity at 2025-04-14T13:32:21: Add support for transformer-based models
 Robust Activity at 2025-04-14T18:43:34: Merge feature branch into main
 Robust Activity at 2025-04-16T14:46:28: Benchmark inference latency across devices
+Robust Activity at 2025-04-16T10:14:19: Implement early stopping in training loop
