@@ -1431,3 +1431,4 @@ Robust Activity at 2025-05-13T09:07:02: Add support for transformer-based models
 Robust Activity at 2025-05-13T10:31:55: Enhance logging for debugging production issues
 Robust Activity at 2025-05-13T17:53:19: Add unit tests for core modules
 Robust Activity at 2025-05-14T14:17:31: Optimize GPU memory allocation
+Robust Activity at 2025-05-14T09:43:36: Clean up unused variables and functions
