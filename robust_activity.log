@@ -1440,3 +1440,4 @@ Robust Activity at 2025-05-16T10:05:44: Enhance logging for debugging production
 Robust Activity at 2025-05-16T16:56:05: Merge feature branch into main
 Robust Activity at 2025-05-16T18:22:44: Initial prototype for feature extraction
 Robust Activity at 2025-05-16T15:51:34: Update README with new performance metrics
+Robust Activity at 2025-05-16T18:53:51: Optimize GPU memory allocation
