@@ -1447,3 +1447,4 @@ Robust Activity at 2025-05-19T13:33:36: Add unit tests for core modules
 Robust Activity at 2025-05-19T15:34:33: Improve model serialization and loading
 Robust Activity at 2025-05-19T15:32:13: Optimize GPU memory allocation
 Robust Activity at 2025-05-19T16:40:15: Benchmark inference latency across devices
+Robust Activity at 2025-05-21T13:35:37: Clean up unused variables and functions
