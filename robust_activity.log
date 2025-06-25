@@ -1514,3 +1514,4 @@ Robust Activity at 2025-06-24T16:30:31: Initial prototype for feature extraction
 Robust Activity at 2025-06-25T15:12:10: Add support for transformer-based models
 Robust Activity at 2025-06-25T14:31:49: Improve documentation for API endpoints
 Robust Activity at 2025-06-25T09:47:55: Optimize GPU memory allocation
+Robust Activity at 2025-06-25T13:15:34: Add unit tests for core modules
