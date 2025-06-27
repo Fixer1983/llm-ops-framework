@@ -1523,3 +1523,4 @@ Robust Activity at 2025-06-26T18:51:47: Merge feature branch into main
 Robust Activity at 2025-06-27T16:39:21: Clean up unused variables and functions
 Robust Activity at 2025-06-27T14:34:23: Merge feature branch into main
 Robust Activity at 2025-06-27T13:08:07: Add support for transformer-based models
+Robust Activity at 2025-06-27T09:56:23: Optimize GPU memory allocation
