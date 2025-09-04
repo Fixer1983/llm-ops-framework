@@ -1629,3 +1629,4 @@ Robust Activity at 2025-09-03T12:34:55: Refactor data loader for faster training
 Robust Activity at 2025-09-03T12:05:28: Fix race condition in data pipeline
 Robust Activity at 2025-09-04T18:35:25: Refactor data loader for faster training
 Robust Activity at 2025-09-04T12:22:35: Benchmark inference latency across devices
+Robust Activity at 2025-09-04T12:26:13: Add support for transformer-based models
