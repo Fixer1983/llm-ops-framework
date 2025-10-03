@@ -1681,3 +1681,4 @@ Robust Activity at 2025-10-02T17:56:11: Refactor data loader for faster training
 Robust Activity at 2025-10-02T18:57:05: Fix bug in loss function calculation
 Robust Activity at 2025-10-03T13:33:06: Add unit tests for core modules
 Robust Activity at 2025-10-03T16:31:24: Refactor data loader for faster training
+Robust Activity at 2025-10-03T15:35:48: Add support for transformer-based models
