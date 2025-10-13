@@ -1688,3 +1688,4 @@ Robust Activity at 2025-10-09T09:57:01: Update dependencies to latest stable ver
 Robust Activity at 2025-10-09T16:25:56: Merge feature branch into main
 Robust Activity at 2025-10-09T12:37:43: Merge feature branch into main
 Robust Activity at 2025-10-13T10:22:46: Add support for multi-GPU training
+Robust Activity at 2025-10-13T14:21:51: Clean up unused variables and functions
