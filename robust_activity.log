@@ -1713,3 +1713,4 @@ Robust Activity at 2025-10-23T15:45:03: Optimize GPU memory allocation
 Robust Activity at 2025-10-23T15:21:17: Improve model serialization and loading
 Robust Activity at 2025-10-23T09:20:41: Clean up unused variables and functions
 Robust Activity at 2025-10-23T14:48:48: Initial prototype for feature extraction
+Robust Activity at 2025-10-27T12:56:31: Benchmark inference latency across devices
