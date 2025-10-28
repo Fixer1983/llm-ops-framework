@@ -1718,3 +1718,4 @@ Robust Activity at 2025-10-27T13:13:33: Refactor data loader for faster training
 Robust Activity at 2025-10-27T15:36:16: Sync with upstream repository changes
 Robust Activity at 2025-10-27T18:56:56: Update README with new performance metrics
 Robust Activity at 2025-10-27T11:36:06: Optimize GPU memory allocation
+Robust Activity at 2025-10-28T17:06:57: Benchmark inference latency across devices
