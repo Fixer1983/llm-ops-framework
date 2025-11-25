@@ -1765,3 +1765,4 @@ Robust Activity at 2025-11-21T15:52:16: Merge feature branch into main
 Robust Activity at 2025-11-21T16:41:53: Initial prototype for feature extraction
 Robust Activity at 2025-11-21T12:30:53: Clean up unused variables and functions
 Robust Activity at 2025-11-25T11:48:27: Address code review feedback
+Robust Activity at 2025-11-25T14:46:57: Improve model serialization and loading
