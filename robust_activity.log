@@ -1796,3 +1796,4 @@ Robust Activity at 2025-12-09T15:56:00: Enhance logging for debugging production
 Robust Activity at 2025-12-09T18:40:22: Implement early stopping in training loop
 Robust Activity at 2025-12-09T16:11:47: Initial prototype for feature extraction
 Robust Activity at 2025-12-12T15:22:23: Add support for transformer-based models
+Robust Activity at 2025-12-12T14:42:15: Fix bug in loss function calculation
