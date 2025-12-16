@@ -1800,3 +1800,4 @@ Robust Activity at 2025-12-12T14:42:15: Fix bug in loss function calculation
 Robust Activity at 2025-12-12T14:03:22: Improve model serialization and loading
 Robust Activity at 2025-12-16T15:04:00: Add support for multi-GPU training
 Robust Activity at 2025-12-16T14:23:14: Add support for multi-GPU training
+Robust Activity at 2025-12-16T15:06:34: Update README with new performance metrics
