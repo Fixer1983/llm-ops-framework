@@ -1809,3 +1809,4 @@ Robust Activity at 2025-12-18T18:17:19: Fix race condition in data pipeline
 Robust Activity at 2025-12-23T14:33:31: Merge feature branch into main
 Robust Activity at 2025-12-23T09:27:10: Add unit tests for core modules
 Robust Activity at 2025-12-23T12:28:08: Add unit tests for core modules
+Robust Activity at 2025-12-23T18:55:45: Improve documentation for API endpoints
